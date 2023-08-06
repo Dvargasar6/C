@@ -1,2 +1,2 @@
 # C-basico
-Programas básicos para programar en C.
+Recopilación de códigos básicos para programar en C.
