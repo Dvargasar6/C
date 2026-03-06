@@ -15,3 +15,12 @@ Esto crea el ejecutable `.exe` que puede ejecutarse llamandolo:
 gcc filename.c -o filename.exe -lm
 ```
 
+<details>
+  <summary>Haz clic aquí para desplegar el contenido</summary>
+  
+  Aquí puedes escribir todo lo que quieras ocultar:
+  - Listas
+  - Imágenes
+  - O incluso bloques de código
+  
+</details>
