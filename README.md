@@ -12,7 +12,7 @@ gcc filename.c -o filename.exe -lm
 Esto crea el ejecutable `.exe` que puede ejecutarse llamandolo:
 
 ```
-gcc filename.c -o filename.exe -lm
+./filename.exe
 ```
 
 <details>
