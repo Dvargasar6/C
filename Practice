@@ -2,18 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* This program simulates the game of craps. */
-/* Intructions:*/
-/* 1. Roll two dice and calculate their sum. */
-/* 2. If the sum is 7 or 11 on the first throw, you win. */
-/* 3. If the sum is 2, 3, or 12 on the first throw, you lose. */
-/* 4. If the sum is 4, 5, 6, 8, 9, or 10 on the first throw, 
-then that sum becomes your "point". */
-/* 5. To win, you must continue rolling the dice until 
-you "make your point" (i.e., roll that same point value). */ 
-
-
-/* Define clases and functions */
 
 enum Status{ WIN, LOSE, CONTINUE};
 int rollDice();
