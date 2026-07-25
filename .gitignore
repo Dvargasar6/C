@@ -1,1 +1,6 @@
 Exe/
+
+# Ejecutables y objetos
+*.exe
+*.o
+*.out
