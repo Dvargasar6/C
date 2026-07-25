@@ -87,7 +87,3 @@ sudo pacman -S gnuplot     # Arch
 
 </details>
 
----
-
-<details>
-
