@@ -90,14 +90,4 @@ sudo pacman -S gnuplot     # Arch
 ---
 
 <details>
-<summary><b>📦 Proyectos que ya no viven aquí</b></summary>
 
-<br>
-
-| Proyecto | Ubicación actual | Motivo |
-|---|---|---|
-| Simulación SPH de la cavidad con tapa móvil (antes `AstroComp/`) | [`../SPH/`](../SPH/) | Repositorio propio: tamaño, y flujo de compilación y visualización independiente. |
-
-El historial previo de esos archivos permanece en este repositorio.
-
-</details>
